@@ -8,6 +8,4 @@ public interface AttachmentProjection {
 
     Integer getId();
 
-    String getOriginalName();
-
 }
